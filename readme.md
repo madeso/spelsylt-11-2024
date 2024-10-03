@@ -12,7 +12,7 @@
 | 01  | 30/09 | *Nothing*
 | 02  | 01/10 | Project setup and tilemap
 | 03  | 02/10 | Fleshed out readme
-| 04  | 03/10 | 
+| 04  | 03/10 | Started on worm character, can jump around
 | 05  | 04/10 | 
 | 06  | 05/10 | 
 | 07  | 06/10 | 
